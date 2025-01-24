@@ -17,7 +17,7 @@ This script logs into DeepSeek, sends messages, retrieves responses, and saves c
 ## **⚙️ Installation**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/deepseek-automator.git
+git clone https://github.com/ziadwaelai/DeepSeek-Automator.git
 cd deepseek-automator
 ```
 
